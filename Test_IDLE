@@ -1,0 +1,7 @@
+info = f"""
+                Press 1 To Update Bank.
+                Press 2 To Check Balance.
+                Press 3 To Delete Account.
+                Press 4 To Contact Us.
+            """
+print(info)
